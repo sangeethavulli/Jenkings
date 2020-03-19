@@ -1,7 +1,7 @@
 package sample;
 
 public class Test {
-
+int a= 10;
 	public static void main(String[] args) {
 		int a= 10;
 		int b=20;
